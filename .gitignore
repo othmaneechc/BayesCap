@@ -3,3 +3,10 @@ src/*T1toT2*
 src/flagged
 src/__pycache__
 .ipynb_checkpoints
+data/BSD100
+data/Set5
+data/Set24
+data/Urban100
+data/SR/val/BSD100
+data/SR/val/Urban100
+
