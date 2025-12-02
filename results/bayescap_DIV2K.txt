@@ -1,0 +1,244 @@
+Epoch 0: 100%|██████████| 100/100 [00:20<00:00,  4.87batch/s, loss=0.268]
+
+Avg. loss: 0.8978620047867298
+current score: 0.14035906575561966 | Last best score: -100000000.0
+current score: 0.14035906575561966 | Last best score: -100000000.0
+Epoch 1: 100%|██████████| 100/100 [00:19<00:00,  5.06batch/s, loss=0.064]
+
+Avg. loss: 0.14754561822861434
+current score: 0.2843219699431211 | Last best score: 0.14035906575561966
+current score: 0.2843219699431211 | Last best score: 0.14035906575561966
+Epoch 2: 100%|██████████| 100/100 [00:24<00:00,  4.06batch/s, loss=0.0238]
+
+Avg. loss: 0.055114151276648045
+current score: 0.3845425215456635 | Last best score: 0.2843219699431211
+current score: 0.3845425215456635 | Last best score: 0.2843219699431211
+Epoch 3: 100%|██████████| 100/100 [00:19<00:00,  5.08batch/s, loss=0.0195] 
+
+Avg. loss: 0.012815122939646244
+current score: 0.4273222695104778 | Last best score: 0.3845425215456635
+current score: 0.4273222695104778 | Last best score: 0.3845425215456635
+Epoch 4: 100%|██████████| 100/100 [00:21<00:00,  4.72batch/s, loss=0.00432] Avg. loss: -0.006812080815434456
+
+current score: 0.4675762705132365 | Last best score: 0.4273222695104778
+Epoch 5: 100%|██████████| 100/100 [00:18<00:00,  5.27batch/s, loss=-0.021] 
+
+Avg. loss: -0.01934349499642849
+current score: 0.48223540786653757 | Last best score: 0.4675762705132365
+current score: 0.48223540786653757 | Last best score: 0.4675762705132365
+Epoch 6: 100%|██████████| 100/100 [00:18<00:00,  5.35batch/s, loss=-0.0272]
+
+Avg. loss: -0.027918005362153053
+current score: 0.5108658525720239 | Last best score: 0.48223540786653757
+current score: 0.5108658525720239 | Last best score: 0.48223540786653757
+Epoch 7: 100%|██████████| 100/100 [00:22<00:00,  4.40batch/s, loss=-0.0328]
+
+Avg. loss: -0.034407481253147125
+current score: 0.5148385311290622 | Last best score: 0.5108658525720239
+current score: 0.5148385311290622 | Last best score: 0.5108658525720239
+Epoch 8: 100%|██████████| 100/100 [00:18<00:00,  5.27batch/s, loss=-0.0474]
+
+Avg. loss: -0.03952380947768688
+current score: 0.5212487713247538 | Last best score: 0.5148385311290622
+current score: 0.5212487713247538 | Last best score: 0.5148385311290622
+Epoch 9: 100%|██████████| 100/100 [00:24<00:00,  4.04batch/s, loss=-0.0375]Avg. loss: -0.04292162876576185
+
+current score: 0.5305551955476403 | Last best score: 0.5212487713247538
+Epoch 10: 100%|██████████| 100/100 [00:19<00:00,  5.24batch/s, loss=-0.0513]
+
+Avg. loss: -0.047335860058665274
+current score: 0.5440629214793443 | Last best score: 0.5305551955476403
+current score: 0.5440629214793443 | Last best score: 0.5305551955476403
+Epoch 11: 100%|██████████| 100/100 [00:19<00:00,  5.09batch/s, loss=-0.0515]
+
+Avg. loss: -0.04916819728910923
+current score: 0.5562065154314041 | Last best score: 0.5440629214793443
+current score: 0.5562065154314041 | Last best score: 0.5440629214793443
+Epoch 12: 100%|██████████| 100/100 [00:20<00:00,  4.90batch/s, loss=-0.0442]
+
+Avg. loss: -0.04990063924342394
+current score: 0.552295536249876 | Last best score: 0.5562065154314041
+current score: 0.552295536249876 | Last best score: 0.5562065154314041
+Epoch 13: 100%|██████████| 100/100 [00:19<00:00,  5.04batch/s, loss=-0.0583]
+Epoch 13: 100%|██████████| 100/100 [00:19<00:00,  5.04batch/s, loss=-0.0583]
+Avg. loss: -0.05312271829694509
+current score: 0.5642969712987542 | Last best score: 0.5562065154314041
+current score: 0.5642969712987542 | Last best score: 0.5562065154314041
+Epoch 14: 100%|██████████| 100/100 [00:19<00:00,  5.11batch/s, loss=-0.0602]
+
+Avg. loss: -0.05350533246994019
+current score: 0.565108755864203 | Last best score: 0.5642969712987542
+current score: 0.565108755864203 | Last best score: 0.5642969712987542
+Epoch 15: 100%|██████████| 100/100 [00:19<00:00,  5.20batch/s, loss=-0.0464]
+
+Avg. loss: -0.056444117836654185
+current score: 0.566836151778698 | Last best score: 0.565108755864203
+current score: 0.566836151778698 | Last best score: 0.565108755864203
+Epoch 16: 100%|██████████| 100/100 [00:23<00:00,  4.24batch/s, loss=-0.0694]
+
+Avg. loss: -0.05747743662446737
+current score: 0.5645318302698433 | Last best score: 0.566836151778698
+current score: 0.5645318302698433 | Last best score: 0.566836151778698
+Epoch 17: 100%|██████████| 100/100 [00:20<00:00,  4.92batch/s, loss=-0.063]
+
+Avg. loss: -0.061513791531324385
+current score: 0.5774367508664727 | Last best score: 0.566836151778698
+current score: 0.5774367508664727 | Last best score: 0.566836151778698
+Epoch 18: 100%|██████████| 100/100 [00:20<00:00,  4.85batch/s, loss=-0.0454]
+
+Avg. loss: -0.05968246031552553
+current score: 0.5823274639248848 | Last best score: 0.5774367508664727
+current score: 0.5823274639248848 | Last best score: 0.5774367508664727
+Epoch 19: 100%|██████████| 100/100 [00:20<00:00,  4.76batch/s, loss=-0.0447]
+
+Avg. loss: -0.05972648050636053
+current score: 0.5821414452046156 | Last best score: 0.5823274639248848
+current score: 0.5821414452046156 | Last best score: 0.5823274639248848
+Epoch 20: 100%|██████████| 100/100 [00:19<00:00,  5.17batch/s, loss=-0.071]
+
+Avg. loss: -0.06427139725536107
+current score: 0.5845634558796883 | Last best score: 0.5823274639248848
+current score: 0.5845634558796883 | Last best score: 0.5823274639248848
+Epoch 21: 100%|██████████| 100/100 [00:19<00:00,  5.25batch/s, loss=-0.0753]
+
+Avg. loss: -0.06361483838409185
+current score: 0.5894536402449012 | Last best score: 0.5845634558796883
+current score: 0.5894536402449012 | Last best score: 0.5845634558796883
+Epoch 22: 100%|██████████| 100/100 [00:19<00:00,  5.08batch/s, loss=-0.0706]
+
+Avg. loss: -0.06559251621365547
+current score: 0.5898199523240328 | Last best score: 0.5894536402449012
+current score: 0.5898199523240328 | Last best score: 0.5894536402449012
+Epoch 23: 100%|██████████| 100/100 [00:21<00:00,  4.60batch/s, loss=-0.0707]
+
+Avg. loss: -0.06589717738330364
+current score: 0.582545041386038 | Last best score: 0.5898199523240328
+current score: 0.582545041386038 | Last best score: 0.5898199523240328
+Epoch 24: 100%|██████████| 100/100 [00:20<00:00,  4.97batch/s, loss=-0.073]
+Epoch 24: 100%|██████████| 100/100 [00:20<00:00,  4.97batch/s, loss=-0.073]
+Avg. loss: -0.06747364643961191
+current score: 0.5940340758860111 | Last best score: 0.5898199523240328
+current score: 0.5940340758860111 | Last best score: 0.5898199523240328
+Epoch 25: 100%|██████████| 100/100 [00:19<00:00,  5.19batch/s, loss=-0.077]
+
+Avg. loss: -0.06886816140264272
+current score: 0.5927378167584538 | Last best score: 0.5940340758860111
+current score: 0.5927378167584538 | Last best score: 0.5940340758860111
+Epoch 26: 100%|██████████| 100/100 [00:19<00:00,  5.06batch/s, loss=-0.0775]
+
+Avg. loss: -0.0702896561473608
+current score: 0.6005431950464845 | Last best score: 0.5940340758860111
+current score: 0.6005431950464845 | Last best score: 0.5940340758860111
+Epoch 27: 100%|██████████| 100/100 [00:19<00:00,  5.22batch/s, loss=-0.0631]
+Epoch 27: 100%|██████████| 100/100 [00:19<00:00,  5.22batch/s, loss=-0.0631]
+Avg. loss: -0.0681889334693551
+current score: 0.5977174665033818 | Last best score: 0.6005431950464845
+current score: 0.5977174665033818 | Last best score: 0.6005431950464845
+Epoch 28: 100%|██████████| 100/100 [00:18<00:00,  5.46batch/s, loss=-0.0803]
+Epoch 28: 100%|██████████| 100/100 [00:18<00:00,  5.46batch/s, loss=-0.0803]
+Avg. loss: -0.07106866039335728
+current score: 0.6018683501332999 | Last best score: 0.6005431950464845
+current score: 0.6018683501332999 | Last best score: 0.6005431950464845
+Epoch 29: 100%|██████████| 100/100 [00:19<00:00,  5.19batch/s, loss=-0.0881]
+
+Avg. loss: -0.07033423509448766
+current score: 0.6022527013346552 | Last best score: 0.6018683501332999
+current score: 0.6022527013346552 | Last best score: 0.6018683501332999
+Epoch 30: 100%|██████████| 100/100 [00:22<00:00,  4.55batch/s, loss=-0.0641]Avg. loss: -0.07156873177736997
+
+current score: 0.6041249547526241 | Last best score: 0.6022527013346552
+Epoch 31: 100%|██████████| 100/100 [00:20<00:00,  4.95batch/s, loss=-0.0515]
+
+Avg. loss: -0.06839698918163777
+current score: 0.5979144307225943 | Last best score: 0.6041249547526241
+current score: 0.5979144307225943 | Last best score: 0.6041249547526241
+Epoch 32: 100%|██████████| 100/100 [00:20<00:00,  4.90batch/s, loss=-0.0809]
+
+Avg. loss: -0.07413590386509895
+current score: 0.6073627404123545 | Last best score: 0.6041249547526241
+current score: 0.6073627404123545 | Last best score: 0.6041249547526241
+Epoch 33: 100%|██████████| 100/100 [00:19<00:00,  5.19batch/s, loss=-0.0664]
+
+Avg. loss: -0.0740063664317131
+current score: 0.6027900956198573 | Last best score: 0.6073627404123545
+current score: 0.6027900956198573 | Last best score: 0.6073627404123545
+Epoch 34: 100%|██████████| 100/100 [00:18<00:00,  5.30batch/s, loss=-0.0762]
+
+Avg. loss: -0.07308924648910761
+current score: 0.6070566699281335 | Last best score: 0.6073627404123545
+current score: 0.6070566699281335 | Last best score: 0.6073627404123545
+Epoch 35: 100%|██████████| 100/100 [00:18<00:00,  5.33batch/s, loss=-0.0682]
+
+Avg. loss: -0.07373499043285847
+current score: 0.6026199899986386 | Last best score: 0.6073627404123545
+current score: 0.6026199899986386 | Last best score: 0.6073627404123545
+Epoch 36: 100%|██████████| 100/100 [00:19<00:00,  5.05batch/s, loss=-0.0794]
+
+Avg. loss: -0.07534410238265991
+current score: 0.607339261136949 | Last best score: 0.6073627404123545
+current score: 0.607339261136949 | Last best score: 0.6073627404123545
+Epoch 37: 100%|██████████| 100/100 [00:22<00:00,  4.44batch/s, loss=-0.0783]
+Epoch 37: 100%|██████████| 100/100 [00:22<00:00,  4.44batch/s, loss=-0.0783]
+Avg. loss: -0.07586916133761407
+current score: 0.6084771163761615 | Last best score: 0.6073627404123545
+current score: 0.6084771163761615 | Last best score: 0.6073627404123545
+Epoch 38: 100%|██████████| 100/100 [00:20<00:00,  4.92batch/s, loss=-0.0773]
+
+Avg. loss: -0.07544692810624838
+current score: 0.6116893562301994 | Last best score: 0.6084771163761615
+current score: 0.6116893562301994 | Last best score: 0.6084771163761615
+Epoch 39: 100%|██████████| 100/100 [00:18<00:00,  5.34batch/s, loss=-0.0837]
+
+Avg. loss: -0.0769886427745223
+current score: 0.6143934966623783 | Last best score: 0.6116893562301994
+current score: 0.6143934966623783 | Last best score: 0.6116893562301994
+Epoch 40: 100%|██████████| 100/100 [00:19<00:00,  5.09batch/s, loss=-0.0736]
+
+Avg. loss: -0.0772609806805849
+current score: 0.6137050611525774 | Last best score: 0.6143934966623783
+current score: 0.6137050611525774 | Last best score: 0.6143934966623783
+Epoch 41: 100%|██████████| 100/100 [00:19<00:00,  5.26batch/s, loss=-0.0735]
+
+Avg. loss: -0.07873340897262096
+current score: 0.6144172477722168 | Last best score: 0.6143934966623783
+current score: 0.6144172477722168 | Last best score: 0.6143934966623783
+Epoch 42: 100%|██████████| 100/100 [00:18<00:00,  5.28batch/s, loss=-0.068]
+
+Avg. loss: -0.07728926859796047
+current score: 0.6113726418092846 | Last best score: 0.6144172477722168
+current score: 0.6113726418092846 | Last best score: 0.6144172477722168
+Epoch 43: 100%|██████████| 100/100 [00:20<00:00,  4.93batch/s, loss=-0.0748]
+Epoch 43: 100%|██████████| 100/100 [00:20<00:00,  4.93batch/s, loss=-0.0748]
+Avg. loss: -0.07803525235503912
+current score: 0.6080376373231411 | Last best score: 0.6144172477722168
+current score: 0.6080376373231411 | Last best score: 0.6144172477722168
+Epoch 44: 100%|██████████| 100/100 [00:21<00:00,  4.57batch/s, loss=-0.0795]
+
+Avg. loss: -0.07971204526722431
+current score: 0.6166969083249569 | Last best score: 0.6144172477722168
+current score: 0.6166969083249569 | Last best score: 0.6144172477722168
+Epoch 45: 100%|██████████| 100/100 [00:26<00:00,  3.80batch/s, loss=-0.0813]
+
+Avg. loss: -0.07866195943206548
+current score: 0.6204213196784258 | Last best score: 0.6166969083249569
+current score: 0.6204213196784258 | Last best score: 0.6166969083249569
+Epoch 46: 100%|██████████| 100/100 [00:19<00:00,  5.02batch/s, loss=-0.0844]
+
+Avg. loss: -0.08060105603188276
+current score: 0.6217589554935694 | Last best score: 0.6204213196784258
+current score: 0.6217589554935694 | Last best score: 0.6204213196784258
+Epoch 47: 100%|██████████| 100/100 [00:19<00:00,  5.24batch/s, loss=-0.078]
+
+Avg. loss: -0.07920422993600368
+current score: 0.6103375287726521 | Last best score: 0.6217589554935694
+current score: 0.6103375287726521 | Last best score: 0.6217589554935694
+Epoch 48: 100%|██████████| 100/100 [00:21<00:00,  4.67batch/s, loss=-0.0815]
+Epoch 48: 100%|██████████| 100/100 [00:21<00:00,  4.67batch/s, loss=-0.0815]
+Avg. loss: -0.07886756937950849
+current score: 0.6147329454869032 | Last best score: 0.6217589554935694
+current score: 0.6147329454869032 | Last best score: 0.6217589554935694
+Epoch 49: 100%|██████████| 100/100 [00:19<00:00,  5.03batch/s, loss=-0.0664]
+Epoch 49: 100%|██████████| 100/100 [00:19<00:00,  5.03batch/s, loss=-0.0664]
+Avg. loss: -0.08106000002473593
+current score: 0.6249246019124984 | Last best score: 0.6217589554935694
+current score: 0.6249246019124984 | Last best score: 0.6217589554935694

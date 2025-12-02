@@ -47,8 +47,9 @@ class ImgDset(Dataset):
         self.lr_transforms = transforms.Resize((image_size[0]//upscale_factor, image_size[1]//upscale_factor), interpolation=IMode.BICUBIC, antialias=True)
 
     def __getitem__(self, batch_index: int) -> [Tensor, Tensor]:
-        # Read a batch of image data
-        image = Image.open(self.filenames[batch_index])
+        # Read a batch of image data and standardize to RGB so downstream loaders
+        # never mix single-channel and three-channel tensors inside the same batch.
+        image = Image.open(self.filenames[batch_index]).convert('RGB')
 
         # Transform image
         hr_image = self.hr_transforms(image)

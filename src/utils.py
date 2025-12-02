@@ -498,6 +498,41 @@ def show_uncer4(xSRvar1, xSRvar2, xSRvar3, xSRvar4, ulim=(0,0.15)):
 	plt.subplots_adjust(wspace=0, hspace=0)
 	plt.show()
 
+def eval_BayesCap(
+	NetC,
+	NetG,
+	eval_loader,
+	device='cuda',
+	dtype=torch.cuda.FloatTensor(),
+	task=None,
+):
+	"""Evaluate BayesCap predictions via mean SSIM for checkpoint selection."""
+	NetC.eval()
+	NetG.eval()
+	total_ssim = 0.0
+	total_imgs = 0
+	with torch.no_grad():
+		for batch in eval_loader:
+			xLR, xHR = batch[0].to(device), batch[1].to(device)
+			xLR, xHR = xLR.type(dtype), xHR.type(dtype)
+			if task == 'inpainting':
+				if 'random_mask' not in globals():
+					raise RuntimeError('random_mask is required for inpainting evaluation but is not defined')
+				xMask = random_mask(xLR.shape[0], (xLR.shape[2], xLR.shape[3]))
+				xMask = xMask.to(device).type(dtype)
+				_, xSR = NetG(xLR, xMask)
+			elif task == 'depth':
+				xSR = NetG(xLR)[("disp", 0)]
+			else:
+				xSR = NetG(xLR)
+			xSRC_mu, _, _ = NetC(xSR)
+			batch_size = xSRC_mu.shape[0]
+			for idx in range(batch_size):
+				total_ssim += img_ssim(xSRC_mu[idx], xHR[idx]).item()
+			total_imgs += batch_size
+	NetC.train()
+	return total_ssim / max(total_imgs, 1)
+
 ##################### training BayesCap
 def train_BayesCap(
 	NetC,

@@ -1,0 +1,26 @@
+[
+  {
+    "label": "imagenet_pretrained",
+    "generator_ckpt": "../ckpt/srgan-ImageNet-bc347d67.pth",
+    "bayescap_ckpt": "../ckpt/BayesCap_SRGAN_best.pth",
+    "description": "Original release weights"
+  },
+  {
+    "label": "div2k_pretrained",
+    "generator_ckpt": "../ckpt/srgan_DIV2K.pth",
+    "bayescap_ckpt": "../ckpt/BayesCap_SRGAN_DIV2K.pth_best.pth",
+    "description": "DIV2K fine-tuned weights"
+  },
+  {
+    "label": "imagenetG_div2kC",
+    "generator_ckpt": "../ckpt/srgan-ImageNet-bc347d67.pth",
+    "bayescap_ckpt": "../ckpt/BayesCap_SRGAN_DIV2K.pth_best.pth",
+    "description": "ImageNet generator + DIV2K BayesCap"
+  },
+  {
+    "label": "div2kG_imagenetC",
+    "generator_ckpt": "../ckpt/srgan_DIV2K.pth",
+    "bayescap_ckpt": "../ckpt/BayesCap_SRGAN_best.pth",
+    "description": "DIV2K generator + ImageNet BayesCap"
+  }
+]

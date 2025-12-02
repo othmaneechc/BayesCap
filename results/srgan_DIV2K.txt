@@ -1,0 +1,204 @@
+[DIV2K][Epoch 1/100] train:   0%|          | 0/100 [00:00<?, ?batch/s]
+[DIV2K][Epoch 1/100] train loss=0.4157, val PSNR=13.03 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+[DIV2K][Epoch 2/100] train loss=0.1755, val PSNR=15.29 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+[DIV2K][Epoch 3/100] train loss=0.1397, val PSNR=17.02 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+[DIV2K][Epoch 4/100] train loss=0.1215, val PSNR=17.98 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+[DIV2K][Epoch 5/100] train loss=0.1093, val PSNR=18.66 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+[DIV2K][Epoch 6/100] train loss=0.1014, val PSNR=19.21 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 7/100] train loss=0.0957, val PSNR=19.70 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+[DIV2K][Epoch 8/100] train loss=0.0897, val PSNR=20.23 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+[DIV2K][Epoch 9/100] train loss=0.0858, val PSNR=20.75 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 10/100] train loss=0.0822, val PSNR=20.80 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 11/100] train loss=0.0793, val PSNR=21.23 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 12/100] train loss=0.0773, val PSNR=21.51 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 13/100] train loss=0.0755, val PSNR=21.78 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 14/100] train loss=0.0727, val PSNR=22.00 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 15/100] train loss=0.0711, val PSNR=22.18 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+
+[DIV2K][Epoch 16/100] train loss=0.0699, val PSNR=21.93 dB
+  [DIV2K][Epoch 17/100] train loss=0.0686, val PSNR=22.49 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 18/100] train loss=0.0675, val PSNR=22.65 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 19/100] train loss=0.0664, val PSNR=22.67 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 20/100] train loss=0.0656, val PSNR=22.78 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 21/100] train loss=0.0647, val PSNR=22.76 dB
+  [DIV2K][Epoch 22/100] train loss=0.0638, val PSNR=22.96 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 23/100] train loss=0.0634, val PSNR=23.00 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 24/100] train loss=0.0626, val PSNR=23.09 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 25/100] train loss=0.0621, val PSNR=23.15 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 26/100] train loss=0.0615, val PSNR=23.26 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 27/100] train loss=0.0611, val PSNR=23.26 dB
+  [DIV2K][Epoch 28/100] train loss=0.0605, val PSNR=23.31 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 29/100] train loss=0.0602, val PSNR=23.39 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 30/100] train loss=0.0595, val PSNR=23.43 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 31/100] train loss=0.0590, val PSNR=23.44 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 32/100] train loss=0.0588, val PSNR=23.57 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 33/100] train loss=0.0588, val PSNR=23.57 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 34/100] train loss=0.0581, val PSNR=23.61 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 35/100] train loss=0.0579, val PSNR=23.64 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  
+[DIV2K][Epoch 36/100] train loss=0.0576, val PSNR=23.64 dB
+ [DIV2K][Epoch 37/100] train loss=0.0573, val PSNR=23.65 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 38/100] train loss=0.0570, val PSNR=23.58 dB
+ [DIV2K][Epoch 39/100] train loss=0.0569, val PSNR=23.74 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 40/100] train loss=0.0565, val PSNR=23.75 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 41/100] train loss=0.0564, val PSNR=23.76 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 42/100] train loss=0.0562, val PSNR=23.81 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 43/100] train loss=0.0559, val PSNR=23.82 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 44/100] train loss=0.0559, val PSNR=23.79 dB
+  [DIV2K][Epoch 45/100] train loss=0.0557, val PSNR=23.85 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 46/100] train loss=0.0552, val PSNR=23.87 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 47/100] train loss=0.0553, val PSNR=23.80 dB
+ 
+[DIV2K][Epoch 48/100] train loss=0.0550, val PSNR=23.85 dB
+ [DIV2K][Epoch 49/100] train loss=0.0547, val PSNR=23.94 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 50/100] train loss=0.0548, val PSNR=23.94 dB
+ [DIV2K][Epoch 51/100] train loss=0.0546, val PSNR=23.97 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 52/100] train loss=0.0546, val PSNR=23.96 dB
+ [DIV2K][Epoch 53/100] train loss=0.0545, val PSNR=23.99 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 54/100] train loss=0.0542, val PSNR=23.93 dB
+ [DIV2K][Epoch 55/100] train loss=0.0541, val PSNR=24.02 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 56/100] train loss=0.0540, val PSNR=24.03 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 57/100] train loss=0.0539, val PSNR=24.04 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 58/100] train loss=0.0538, val PSNR=24.05 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 59/100] train loss=0.0536, val PSNR=24.06 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 60/100] train loss=0.0536, val PSNR=24.05 dB
+ [DIV2K][Epoch 61/100] train loss=0.0536, val PSNR=24.07 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 62/100] train loss=0.0534, val PSNR=24.08 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 63/100] train loss=0.0534, val PSNR=24.07 dB
+ [DIV2K][Epoch 64/100] train loss=0.0533, val PSNR=24.10 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 65/100] train loss=0.0533, val PSNR=24.07 dB
+ 
+[DIV2K][Epoch 66/100] train loss=0.0533, val PSNR=24.10 dB
+ [DIV2K][Epoch 67/100] train loss=0.0531, val PSNR=24.11 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  
+[DIV2K][Epoch 68/100] train loss=0.0530, val PSNR=24.10 dB
+ [DIV2K][Epoch 69/100] train loss=0.0530, val PSNR=24.13 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 70/100] train loss=0.0529, val PSNR=24.13 dB
+ 
+[DIV2K][Epoch 71/100] train loss=0.0529, val PSNR=24.13 dB
+  [DIV2K][Epoch 72/100] train loss=0.0529, val PSNR=24.15 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 73/100] train loss=0.0527, val PSNR=24.15 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 74/100] train loss=0.0527, val PSNR=24.16 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 75/100] train loss=0.0527, val PSNR=24.16 dB
+  [DIV2K][Epoch 76/100] train loss=0.0526, val PSNR=24.16 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 77/100] train loss=0.0526, val PSNR=24.17 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 78/100] train loss=0.0525, val PSNR=24.17 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 79/100] train loss=0.0525, val PSNR=24.16 dB
+  [DIV2K][Epoch 80/100] train loss=0.0525, val PSNR=24.18 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 81/100] train loss=0.0525, val PSNR=24.17 dB
+ [DIV2K][Epoch 82/100] train loss=0.0524, val PSNR=24.18 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  
+[DIV2K][Epoch 83/100] train loss=0.0524, val PSNR=24.17 dB
+ [DIV2K][Epoch 84/100] train loss=0.0524, val PSNR=24.19 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 85/100] train loss=0.0523, val PSNR=24.19 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 86/100] train loss=0.0523, val PSNR=24.18 dB
+ [DIV2K][Epoch 87/100] train loss=0.0523, val PSNR=24.19 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 88/100] train loss=0.0523, val PSNR=24.19 dB
+ 
+[DIV2K][Epoch 89/100] train loss=0.0523, val PSNR=24.19 dB
+ 
+[DIV2K][Epoch 90/100] train loss=0.0522, val PSNR=24.19 dB
+ [DIV2K][Epoch 91/100] train loss=0.0522, val PSNR=24.20 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ 
+[DIV2K][Epoch 92/100] train loss=0.0523, val PSNR=24.20 dB
+  
+[DIV2K][Epoch 93/100] train loss=0.0523, val PSNR=24.20 dB
+  [DIV2K][Epoch 94/100] train loss=0.0523, val PSNR=24.20 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  [DIV2K][Epoch 95/100] train loss=0.0522, val PSNR=24.20 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+ [DIV2K][Epoch 96/100] train loss=0.0522, val PSNR=24.20 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  
+[DIV2K][Epoch 97/100] train loss=0.0523, val PSNR=24.19 dB
+  [DIV2K][Epoch 98/100] train loss=0.0522, val PSNR=24.20 dB
+  -> saved new best checkpoint to /data/oe23/BayesCap/ckpt/srgan_DIV2K.pth
+  
+[DIV2K][Epoch 99/100] train loss=0.0523, val PSNR=24.19 dB
+  [DIV2K][Epoch 100/100] train loss=0.0522, val PSNR=24.20 dB
