@@ -6,7 +6,7 @@ This repository mirrors the official BayesCap release and documents my workflow 
 
 - `scripts/bayescap_pipeline.py` — command-line wrapper I wrote to orchestrate dataset prep, SRGAN pretraining, BayesCap adaptation, sweeps, and experiment comparison while still invoking the authors' core modules.
 - `src/BayesCap_SRGAN_train_and_eval.ipynb` — primary notebook (see below) that walks through the entire reproduction, clearly calling out which cells reuse upstream code and which belong to this replication.
-- `results/` and `demo_examples/` assets that I generated while validating the pipeline (training logs, diagnostic plots, visualization grids).
+- `results/` assets that I generated while validating the pipeline (training logs, diagnostic plots, visualization grids).
 
 Everything else—`ds.py`, `networks_SRGAN.py`, `utils.py`, BayesCap loss definitions, etc.—remains untouched from the BayesCap authors and is credited to them.
 
